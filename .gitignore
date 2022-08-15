@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# The Compiled main prog
+
+dagame
